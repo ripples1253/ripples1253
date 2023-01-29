@@ -1,15 +1,12 @@
-## Hey 👋, I'm Pearl!  
+## Hey 👋, I'm Ripley!  
   
 
-<a href="https://github.com/Pearl-Codes" target="_blank">
+<a href="https://github.com/rippes1253" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/PearlDoesCoding" target="_blank">
+<a href="https://twitter.com/ripples1253" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/pearlcodes" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
   
 
 
@@ -24,13 +21,13 @@ I specialize in Systems Administration, but I can do some light development work
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on my [Blog](https://github.com/Pearl-Codes/pearlcodes.ml)  
+- 🔭 I’m currently working on my [osu! server](https://github.com/Pearl-Codes/pearlcodes.ml)  
   
 
 - 🌱 I’m currently learning Java and Docker.  
   
 
-- ⚡ Fun fact: You can always reach me on discord! My username is `PearlCodes#1253`  
+- ⚡ Fun fact: You can always reach me on discord! My username is `ripples#1253`  
   
 
 <br/>  
@@ -62,10 +59,10 @@ I specialize in Systems Administration, but I can do some light development work
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Pearl-Codes&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=ripples1253&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Pearl-Codes&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ripples1253&&style=flat-square)  
 
 <br />
