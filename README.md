@@ -21,7 +21,7 @@ I specialize in Systems Administration, but I can do some light development work
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on my [osu! server](https://github.com/Pearl-Codes/pearlcodes.ml)  
+- 🔭 I’m currently working on nothing, give me a shout if you want help with projects!  
   
 
 - 🌱 I’m currently learning Java and Docker.  
