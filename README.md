@@ -20,14 +20,8 @@ I specialize in Systems Administration, but I can do some light development work
 <br/>  
 
 
-## Rapidfire  
-- 🔭 I’m currently working on nothing, give me a shout if you want help with projects!  
-  
-
-- 🌱 I’m currently learning Java and Docker.  
-  
-
-- ⚡ Fun fact: You can always reach me on discord! My username is `ripples#1253`  
+## Discord  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1021563419951890552)](https://discord.com/users/1021563419951890552)
   
 
 <br/>  
