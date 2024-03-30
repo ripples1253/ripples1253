@@ -9,11 +9,7 @@
 
 
 ### Glad to meet ya!  
-I'm a 14 year old developer from England, United Kingdom. I have been coding for 4 years, and I am proficient in Java, TypeScript, and Python, and I mainly do Minecraft Spigot/Paper plugins.
-
-In my spare time, I tend to play GTA:V and Minecraft. I am also a member of the Minecraft modding community (occasionally).
-
-I am passionate about software development, and I am always looking for new challenges. I am excited to share my work on GitHub, and I hope to collaborate with other developers in the future.
+I'm a 14 year old developer from England. I've have been coding for 4 years, and I am proficient in Java, TypeScript, and Python, and I mainly do backend services.
   
 
 <br/>  
