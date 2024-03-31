@@ -15,13 +15,6 @@ I'm a 14 year old developer from England. I've have been coding for 4 years, and
 <br/>  
 
 
-## Discord  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1021563419951890552)](https://discord.com/users/1021563419951890552)
-  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
