@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ripley!  
+## Hiya 👋, I'm Ripley!  
   
 
 <a href="https://github.com/rippes1253" target="_blank">
@@ -9,7 +9,7 @@
 
 
 ### Glad to meet ya!  
-I'm a 14 year old developer from England. I've have been coding for 4 years, and I am proficient in Java, TypeScript, and Python, and I mainly do backend services.
+I'm a 14 year old developer from England. I've been coding for 4 years, and I am proficient in Java, TypeScript, and Python, and I mainly do backend services.
   
 
 <br/>  
