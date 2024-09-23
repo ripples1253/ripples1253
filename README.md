@@ -1,4 +1,4 @@
-## Hiya 👋, I'm Ripley!  
+## Hiya 👋, I'm Rip! (aka anekodot/dot)  
   
 
 <a href="https://github.com/rippes1253" target="_blank">
