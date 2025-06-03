@@ -11,7 +11,6 @@ Hiya, I'm Ripples
 -------------------------
 💻 Backend Developer & Linux Nerd
 🔭 Working at Mythicraft Studios LLC as the Lead Developer for Mythicraft
-🌱 Doing Computer Science in College
 🌟 Main languages: Java, Python, TypeScript
 🚩 Learning how to do even MORE over-engineering
 💖 pooks
